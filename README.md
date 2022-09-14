@@ -5,5 +5,5 @@
 
 원준연 : https://github.com/jnyn-won/cp.1
 이영일 : https://github.com/Gotothenewsky/Codestates-Project-1
-정선미 : https://github.com/applepple
+정선미 : https://github.com/applepple/CP1
 한재원 : https://github.com/Han-Jaewon/CP1
